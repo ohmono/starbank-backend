@@ -1,542 +1,402 @@
 {
-    "_sav1": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Medellin",
-        "creationDate": "26/04/2021-22: 29: 39",
-        "rent": 1000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav2": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Cali",
-        "creationDate": "26/04/2021-22: 29: 39",
-        "rent": 1000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav3": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Wuhan",
-        "creationDate": "26/04/2021-22: 29: 40",
-        "rent": 1000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav4": {
-        "status": "True",
-        "money": 110000,
-        "creationSucursal": "Santa Rosa",
-        "creationDate": "26/04/2021-22: 29: 40",
-        "rent": 1000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav5": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Medellin",
-        "creationDate": "26/04/2021-22: 29: 45",
-        "rent": 3000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav6": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Santa Rosa",
-        "creationDate": "26/04/2021-22: 29: 46",
-        "rent": 3000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur1": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Santa Rosa",
-        "creationDate": "26/04/2021-22: 29: 41",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur2": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Medellin",
-        "creationDate": "26/04/2021-22: 29: 42",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur3": {
-        "status": "True",
-        "money": 100000,
-        "creationSucursal": "Bucaramanga",
-        "creationDate": "26/04/2021-22: 29: 42",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav7": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Santa Rosa",
-        "creationDate": "26/04/2021-22: 29: 46",
-        "rent": 3000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav8": {
-        "status": "True",
-        "money": 150000,
-        "creationSucursal": "Wuhan",
-        "creationDate": "26/04/2021-22: 29: 46",
-        "rent": 3000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav9": {
-        "status": "True",
-        "money": 150000,
-        "creationSucursal": "Santa Rosa",
-        "creationDate": "26/04/2021-22: 29: 46",
-        "rent": 3000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur4": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Wuhan",
-        "creationDate": "26/04/2021-22: 29: 43",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur5": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Bucaramanga",
-        "creationDate": "26/04/2021-22: 29: 44",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav10": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Wuhan",
-        "creationDate": "26/04/2021-22: 29: 48",
-        "rent": 1000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav11": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Santa Rosa",
-        "creationDate": "26/04/2021-22: 29: 49",
-        "rent": 1000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur6": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Cali",
-        "creationDate": "26/04/2021-22: 29: 44",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur7": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Santa Rosa",
-        "creationDate": "26/04/2021-22: 29: 48",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur8": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Medellin",
-        "creationDate": "26/04/2021-22: 29: 48",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur9": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Santa Rosa",
-        "creationDate": "26/04/2021-22: 29: 49",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur10": {
-        "status": "True",
-        "money": 80000,
-        "creationSucursal": "Medellin",
-        "creationDate": "26/04/2021-22: 29: 51",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav12": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Cali",
-        "creationDate": "26/04/2021-22: 29: 50",
-        "rent": 1000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur11": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Cali",
-        "creationDate": "26/04/2021-22: 29: 53",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav13": {
-        "status": "True",
-        "money": 30000,
-        "creationSucursal": "Bucaramanga",
-        "creationDate": "26/04/2021-22: 29: 51",
-        "rent": 4000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur12": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Wuhan",
-        "creationDate": "26/04/2021-22: 29: 55",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur13": {
-        "status": "True",
-        "money": 120000,
-        "creationSucursal": "Bucaramanga",
-        "creationDate": "26/04/2021-22: 29: 56",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav14": {
-        "status": "True",
-        "money": 150000,
-        "creationSucursal": "Medellin",
-        "creationDate": "26/04/2021-22: 29: 51",
-        "rent": 3000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav15": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Cali",
-        "creationDate": "26/04/2021-22: 29: 52",
-        "rent": 2000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur14": {
-        "status": "True",
-        "money": 90000,
-        "creationSucursal": "Cali",
-        "creationDate": "26/04/2021-22: 29: 56",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav16": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Medellin",
-        "creationDate": "26/04/2021-22: 29: 53",
-        "rent": 1000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav17": {
-        "status": "True",
-        "money": 150000,
-        "creationSucursal": "Cali",
-        "creationDate": "26/04/2021-22: 29: 54",
-        "rent": 3000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav18": {
-        "status": "True",
-        "money": 20000,
-        "creationSucursal": "Medellin",
-        "creationDate": "26/04/2021-22: 29: 54",
-        "rent": 2000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav19": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Cali",
-        "creationDate": "26/04/2021-22: 29: 54",
-        "rent": 4000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav20": {
-        "status": "True",
-        "money": 120000,
-        "creationSucursal": "Cali",
-        "creationDate": "26/04/2021-22: 29: 56",
-        "rent": 4000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur15": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Cali",
-        "creationDate": "26/04/2021-22: 29: 57",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur16": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Bucaramanga",
-        "creationDate": "26/04/2021-22: 29: 57",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav21": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Wuhan",
-        "creationDate": "26/04/2021-22: 30: 00",
-        "rent": 2000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur17": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Bucaramanga",
-        "creationDate": "26/04/2021-22: 29: 58",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav22": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Bucaramanga",
-        "creationDate": "26/04/2021-22: 30: 00",
-        "rent": 4000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav23": {
-        "status": "True",
-        "money": 40000,
-        "creationSucursal": "Cali",
-        "creationDate": "26/04/2021-22: 30: 01",
-        "rent": 3000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav24": {
-        "status": "True",
-        "money": 150000,
-        "creationSucursal": "Medellin",
-        "creationDate": "26/04/2021-22: 30: 03",
-        "rent": 1000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav25": {
-        "status": "True",
-        "money": 50000,
-        "creationSucursal": "Bucaramanga",
-        "creationDate": "26/04/2021 22: 26: 34: 26S",
-        "rent": 2000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav26": {
-        "status": "True",
-        "money": 30000,
-        "creationSucursal": "Santa Rosa",
-        "creationDate": "26/04/2021 22: 26: 35: 26S",
-        "rent": 1000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur18": {
-        "status": "True",
-        "money": 80000,
-        "creationSucursal": "Bucaramanga",
-        "creationDate": "26/04/2021-22: 29: 59",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur19": {
-        "status": "True",
-        "money": 130000,
-        "creationSucursal": "Bucaramanga",
-        "creationDate": "26/04/2021-22: 29: 59",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur20": {
-        "status": "True",
-        "money": 20000,
-        "creationSucursal": "Wuhan",
-        "creationDate": "26/04/2021-22: 29: 59",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav27": {
-        "status": "True",
-        "money": 60000,
-        "creationSucursal": "Bucaramanga",
-        "creationDate": "26/04/2021 22: 26: 36: 26S",
-        "rent": 3000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur21": {
-        "status": "True",
-        "money": 20000,
-        "creationSucursal": "Wuhan",
-        "creationDate": "26/04/2021-22: 30: 01",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur22": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Santa Rosa",
-        "creationDate": "26/04/2021-22: 30: 02",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_sav28": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Cali",
-        "creationDate": "26/04/2021 22: 21: 09: 21S",
-        "rent": 3000,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur23": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Bucaramanga",
-        "creationDate": "26/04/2021-22: 30: 02",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur24": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Cali",
-        "creationDate": "26/04/2021-22: 30: 03",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur25": {
-        "status": "False",
-        "money": 0,
-        "creationSucursal": "Wuhan",
-        "creationDate": "26/04/2021-22: 30: 03",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    },
-    "_cur26": {
-        "status": "True",
-        "money": 80000,
-        "creationSucursal": "Santa Rosa",
-        "creationDate": "26/04/2021-22: 30: 03",
-        "rent": 0,
-        "transacions": [
-            "_tranid list"
-        ]
-    }
+  "_sav1": {
+    "creationSucursal": "Bucaramanga",
+    "rent": 3000,
+    "creationDate": "Thu, 29 Apr 2021 01:36:57 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur1": {
+    "creationSucursal": "Medellin",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:36:58 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur2": {
+    "creationSucursal": "Medellin",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:00 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav2": {
+    "creationSucursal": "Medellin",
+    "rent": 1000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:01 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur3": {
+    "creationSucursal": "Cali",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:03 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur4": {
+    "creationSucursal": "Bucaramanga",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:04 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav3": {
+    "creationSucursal": "Santa Rosa",
+    "rent": 5000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:06 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav4": {
+    "creationSucursal": "Cali",
+    "rent": 4000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:07 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav5": {
+    "creationSucursal": "Bucaramanga",
+    "rent": 2000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:08 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur5": {
+    "creationSucursal": "Santa Rosa",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:10 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav6": {
+    "creationSucursal": "Bucaramanga",
+    "rent": 2000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:12 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav7": {
+    "creationSucursal": "Cali",
+    "rent": 3000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:14 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur6": {
+    "creationSucursal": "Medellin",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:16 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur7": {
+    "creationSucursal": "Bucaramanga",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:17 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav8": {
+    "creationSucursal": "Bucaramanga",
+    "rent": 1000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:19 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav9": {
+    "creationSucursal": "Wuhan",
+    "rent": 1000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:21 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav10": {
+    "creationSucursal": "Bucaramanga",
+    "rent": 4000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:22 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur8": {
+    "creationSucursal": "Santa Rosa",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:24 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav11": {
+    "creationSucursal": "Medellin",
+    "rent": 3000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:25 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur9": {
+    "creationSucursal": "Cali",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:27 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav12": {
+    "creationSucursal": "Wuhan",
+    "rent": 4000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:29 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur10": {
+    "creationSucursal": "Cali",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:31 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur11": {
+    "creationSucursal": "Wuhan",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:32 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav13": {
+    "creationSucursal": "Bucaramanga",
+    "rent": 2000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:34 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav14": {
+    "creationSucursal": "Medellin",
+    "rent": 3000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:35 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav15": {
+    "creationSucursal": "Wuhan",
+    "rent": 1000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:37 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav16": {
+    "creationSucursal": "Cali",
+    "rent": 2000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:38 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur12": {
+    "creationSucursal": "Cali",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:40 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur13": {
+    "creationSucursal": "Medellin",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:42 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur14": {
+    "creationSucursal": "Medellin",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:43 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav17": {
+    "creationSucursal": "Bucaramanga",
+    "rent": 2000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:44 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav18": {
+    "creationSucursal": "Cali",
+    "rent": 5000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:46 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur15": {
+    "creationSucursal": "Medellin",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:48 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav19": {
+    "creationSucursal": "Santa Rosa",
+    "rent": 1000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:50 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur16": {
+    "creationSucursal": "Santa Rosa",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:51 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur17": {
+    "creationSucursal": "Medellin",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:53 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav20": {
+    "creationSucursal": "Wuhan",
+    "rent": 4000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:54 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur18": {
+    "creationSucursal": "Santa Rosa",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:56 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur19": {
+    "creationSucursal": "Bucaramanga",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:37:58 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav21": {
+    "creationSucursal": "Medellin",
+    "rent": 1000,
+    "creationDate": "Thu, 29 Apr 2021 01:37:59 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur20": {
+    "creationSucursal": "Wuhan",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:38:01 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav22": {
+    "creationSucursal": "Medellin",
+    "rent": 5000,
+    "creationDate": "Thu, 29 Apr 2021 01:38:02 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav23": {
+    "creationSucursal": "Santa Rosa",
+    "rent": 5000,
+    "creationDate": "Thu, 29 Apr 2021 01:38:03 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur21": {
+    "creationSucursal": "Bucaramanga",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:38:05 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav24": {
+    "creationSucursal": "Bucaramanga",
+    "rent": 3000,
+    "creationDate": "Thu, 29 Apr 2021 01:38:07 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav25": {
+    "creationSucursal": "Medellin",
+    "rent": 1000,
+    "creationDate": "Thu, 29 Apr 2021 01:38:08 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur22": {
+    "creationSucursal": "Cali",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:38:09 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_sav26": {
+    "creationSucursal": "Wuhan",
+    "rent": 1000,
+    "creationDate": "Thu, 29 Apr 2021 01:38:11 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur23": {
+    "creationSucursal": "Santa Rosa",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:38:12 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  },
+  "_cur24": {
+    "creationSucursal": "Santa Rosa",
+    "rent": 0,
+    "creationDate": "Thu, 29 Apr 2021 01:38:13 GMT",
+    "transactions": [],
+    "status": "false",
+    "money": 0
+  }
 }

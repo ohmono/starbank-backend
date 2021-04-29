@@ -2,7 +2,7 @@
     "_accid(_savid, _curid)": {
         "status": "true or false",
         "money": "$",
-        "creationSucursal": "_sucid",
+        "creationSucursal": "",
         "creationDate": "bord date",
         "rent": "0 or more $/month",
         "transacions": [
