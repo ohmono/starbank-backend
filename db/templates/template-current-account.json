@@ -1,0 +1,11 @@
+{
+    "_accid(_curid)": {
+        "_sucid": "",
+        "_usrid": "user owner",
+        "transacions": [
+            "_tranid list"
+        ],
+        "status": "true or false",
+        "money": "$"
+    }
+}

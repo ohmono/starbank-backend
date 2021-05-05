@@ -1,0 +1,12 @@
+{
+    "_accid(_savid)": {
+        "_sucid": "",
+        "_usrid": "user owner",
+        "rent": "%",
+        "transacions": [
+            "_tranid list"
+        ],
+        "status": "true or false",
+        "money": "$"
+    }
+}
