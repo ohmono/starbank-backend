@@ -7,7 +7,7 @@
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "J C",
+  "author": "ohmono",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
