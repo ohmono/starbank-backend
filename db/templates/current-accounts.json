@@ -1,0 +1,548 @@
+{
+  "_cur1": {
+    "id_sucursal": "_Wuh",
+    "id_client": "8263754157",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur2": {
+    "id_sucursal": "_Buc",
+    "id_client": "3284983309",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur3": {
+    "id_sucursal": "_San",
+    "id_client": "1306733721",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur4": {
+    "id_sucursal": "_Med",
+    "id_client": "7313623730",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur5": {
+    "id_sucursal": "_Buc",
+    "id_client": "6135858636",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur6": {
+    "id_sucursal": "_Med",
+    "id_client": "8791098735",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur7": {
+    "id_sucursal": "_Wuh",
+    "id_client": "2528831705",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur8": {
+    "id_sucursal": "_Med",
+    "id_client": "9754708626",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur9": {
+    "id_sucursal": "_San",
+    "id_client": "8553738513",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur10": {
+    "id_sucursal": "_Med",
+    "id_client": "8817001978",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur11": {
+    "id_sucursal": "_San",
+    "id_client": "1415321722",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur12": {
+    "id_sucursal": "_Med",
+    "id_client": "1706990059",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur13": {
+    "id_sucursal": "_Cal",
+    "id_client": "43494033",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur14": {
+    "id_sucursal": "_San",
+    "id_client": "3806537646",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur15": {
+    "id_sucursal": "_Wuh",
+    "id_client": "1159830593",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur16": {
+    "id_sucursal": "_Wuh",
+    "id_client": "7741781022",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur17": {
+    "id_sucursal": "_San",
+    "id_client": "202676917",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur18": {
+    "id_sucursal": "_San",
+    "id_client": "6874593841",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur19": {
+    "id_sucursal": "_Med",
+    "id_client": "7923952309",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur20": {
+    "id_sucursal": "_Buc",
+    "id_client": "221863163",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur21": {
+    "id_sucursal": "_Wuh",
+    "id_client": "9986982660",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur22": {
+    "id_sucursal": "_San",
+    "id_client": "3755163229",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur23": {
+    "id_sucursal": "_Buc",
+    "id_client": "2820970353",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur24": {
+    "id_sucursal": "_Med",
+    "id_client": "1529337001",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur25": {
+    "id_sucursal": "_Buc",
+    "id_client": "9830945401",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur26": {
+    "id_sucursal": "_Med",
+    "id_client": "4220378438",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur27": {
+    "id_sucursal": "_Wuh",
+    "id_client": "8361745238",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur28": {
+    "id_sucursal": "_Wuh",
+    "id_client": "5408093510",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur29": {
+    "id_sucursal": "_San",
+    "id_client": "1536577643",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur30": {
+    "id_sucursal": "_Cal",
+    "id_client": "4235545435",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur31": {
+    "id_sucursal": "_Med",
+    "id_client": "4375880736",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur32": {
+    "id_sucursal": "_San",
+    "id_client": "5256906758",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur33": {
+    "id_sucursal": "_Med",
+    "id_client": "579395841",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur34": {
+    "id_sucursal": "_San",
+    "id_client": "3736344768",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur35": {
+    "id_sucursal": "_Buc",
+    "id_client": "6599306105",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur36": {
+    "id_sucursal": "_Med",
+    "id_client": "7464714047",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur37": {
+    "id_sucursal": "_Wuh",
+    "id_client": "2298099567",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur38": {
+    "id_sucursal": "_San",
+    "id_client": "1817650784",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur39": {
+    "id_sucursal": "_Med",
+    "id_client": "5473620099",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur40": {
+    "id_sucursal": "_Wuh",
+    "id_client": "6986583172",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur41": {
+    "id_sucursal": "_Med",
+    "id_client": "7149632687",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur42": {
+    "id_sucursal": "_Buc",
+    "id_client": "1835151597",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur43": {
+    "id_sucursal": "_Cal",
+    "id_client": "8718258640",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur44": {
+    "id_sucursal": "_Wuh",
+    "id_client": "896003682",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur45": {
+    "id_sucursal": "_Buc",
+    "id_client": "6427726777",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur46": {
+    "id_sucursal": "_Med",
+    "id_client": "1748625873",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur47": {
+    "id_sucursal": "_San",
+    "id_client": "7222711581",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur48": {
+    "id_sucursal": "_Cal",
+    "id_client": "7557216435",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur49": {
+    "id_sucursal": "_Cal",
+    "id_client": "2517170782",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur50": {
+    "id_sucursal": "_Buc",
+    "id_client": "3327172624",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur51": {
+    "id_sucursal": "_Cal",
+    "id_client": "501476631",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur52": {
+    "id_sucursal": "_Med",
+    "id_client": "3677424054",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur53": {
+    "id_sucursal": "_San",
+    "id_client": "656140104",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur54": {
+    "id_sucursal": "_Wuh",
+    "id_client": "5527822902",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur55": {
+    "id_sucursal": "_San",
+    "id_client": "6731688952",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur56": {
+    "id_sucursal": "_Wuh",
+    "id_client": "720137184",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur57": {
+    "id_sucursal": "_San",
+    "id_client": "4227402879",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur58": {
+    "id_sucursal": "_Med",
+    "id_client": "3096809304",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur59": {
+    "id_sucursal": "_Wuh",
+    "id_client": "2082164425",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur60": {
+    "id_sucursal": "_Buc",
+    "id_client": "291234596",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur61": {
+    "id_sucursal": "_Buc",
+    "id_client": "2867255822",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur62": {
+    "id_sucursal": "_San",
+    "id_client": "4009321798",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur63": {
+    "id_sucursal": "_Buc",
+    "id_client": "360046277",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur64": {
+    "id_sucursal": "_Med",
+    "id_client": "9931142109",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur65": {
+    "id_sucursal": "_Wuh",
+    "id_client": "2400962555",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur66": {
+    "id_sucursal": "_Wuh",
+    "id_client": "4034590648",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur67": {
+    "id_sucursal": "_Cal",
+    "id_client": "810829321",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur68": {
+    "id_sucursal": "_Buc",
+    "id_client": "5225789661",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur69": {
+    "id_sucursal": "_San",
+    "id_client": "2782049413",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur70": {
+    "id_sucursal": "_Cal",
+    "id_client": "2127469112",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur71": {
+    "id_sucursal": "_Wuh",
+    "id_client": "7581731232",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur72": {
+    "id_sucursal": "_Med",
+    "id_client": "944530314",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur73": {
+    "id_sucursal": "_Buc",
+    "id_client": "5324115115",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur74": {
+    "id_sucursal": "_Buc",
+    "id_client": "6703626879",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur75": {
+    "id_sucursal": "_San",
+    "id_client": "5695027583",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur76": {
+    "id_sucursal": "_Med",
+    "id_client": "7795286414",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur77": {
+    "id_sucursal": "_San",
+    "id_client": "4389059053",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  },
+  "_cur78": {
+    "id_sucursal": "_Cal",
+    "id_client": "5005020382",
+    "transactions": [],
+    "isActive": false,
+    "balance": 0
+  }
+}
