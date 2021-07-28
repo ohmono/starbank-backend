@@ -3,7 +3,8 @@ const express = require("express");
 const accountRoutes = express.Router();
 // import route controllers 
 const { create_account,
-  view_all_accounts,
+  view_all_saving_accounts,
+  view_all_current_accounts,
   view_one_account,
   update_account,
   delete_account } = require("../controllers/account.controller");
@@ -14,9 +15,14 @@ accountRoutes.post('/account', (req, res) => {
   create_account(req, res);
 });
 
-// get all accounts
-accountRoutes.get('/accounts', (req, res) => {
-  view_all_accounts(req, res);
+// get all saving accounts
+accountRoutes.get('/accounts/saving', (req, res) => {
+  view_all_saving_accounts(req, res);
+});
+
+// get all current accounts
+accountRoutes.get('/accounts/current', (req, res) => {
+  view_all_current_accounts(req, res);
 });
 
 // get one account by id
