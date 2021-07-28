@@ -1,0 +1,408 @@
+{
+    "f1d7a1b1b08286c5": {
+        "id_sucursal": "Wuhan",
+        "id_client": "50300512",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "f55752e90c16e46e": {
+        "id_sucursal": "Wuhan",
+        "id_client": "59123502",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "8c8fc7024cc75192": {
+        "id_sucursal": "Medellin",
+        "id_client": "39535311",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "027c974924084a28": {
+        "id_sucursal": "Santa Rosa",
+        "id_client": "3233429",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "dcb2d2abba449e80": {
+        "id_sucursal": "Bucaramanga",
+        "id_client": "78848330",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "09928a3b2a766f2f": {
+        "id_sucursal": "Bucaramanga",
+        "id_client": "99822972",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "a4abe02b39baef5d": {
+        "id_sucursal": " Cali",
+        "id_client": "10589170",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "3a97dd796c82a02d": {
+        "id_sucursal": "Santa Rosa",
+        "id_client": "55736806",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "7f5facc3ac8e3693": {
+        "id_sucursal": "Wuhan",
+        "id_client": "56688772",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "c5f8bd3ca23c0a17": {
+        "id_sucursal": " Cali",
+        "id_client": "75092706",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "f5237ac140653a36": {
+        "id_sucursal": "Santa Rosa",
+        "id_client": "4765494",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "7a49f12bae995cc9": {
+        "id_sucursal": " Cali",
+        "id_client": "98993569",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "36d591e321ff02f6": {
+        "id_sucursal": " Cali",
+        "id_client": "33026060",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "e56b690d13a322eb": {
+        "id_sucursal": "Bucaramanga",
+        "id_client": "6683028",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "2bd258d9dc66e84b": {
+        "id_sucursal": "Wuhan",
+        "id_client": "668715",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "ad65d38168b54d78": {
+        "id_sucursal": "Wuhan",
+        "id_client": "97830240",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "5e4722ca1dbfa60f": {
+        "id_sucursal": "Medellin",
+        "id_client": "37490168",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "396ae981f65a566c": {
+        "id_sucursal": "Santa Rosa",
+        "id_client": "22067316",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "1b476091ca3bf637": {
+        "id_sucursal": "Wuhan",
+        "id_client": "76684108",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "2046e7c4cd43a64c": {
+        "id_sucursal": "Santa Rosa",
+        "id_client": "71046683",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "f0eeea3b8f187159": {
+        "id_sucursal": " Cali",
+        "id_client": "39347816",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "bb8482f3fb7f58fd": {
+        "id_sucursal": "Medellin",
+        "id_client": "87301024",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "a2f8e621d5671e0f": {
+        "id_sucursal": "Santa Rosa",
+        "id_client": "63154609",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "1f407dfab49befc3": {
+        "id_sucursal": " Cali",
+        "id_client": "94616177",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "682cc8bc0c134401": {
+        "id_sucursal": "Santa Rosa",
+        "id_client": "15098124",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "6cc582cf3e47a3b8": {
+        "id_sucursal": "Santa Rosa",
+        "id_client": "35810566",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "c6881718461538d9": {
+        "id_sucursal": "Medellin",
+        "id_client": "91995948",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "189d8675a9b59f32": {
+        "id_sucursal": " Cali",
+        "id_client": "84366918",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "5e19d4ebda52054f": {
+        "id_sucursal": "Wuhan",
+        "id_client": "49268783",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "1e6cf3fe8df449af": {
+        "id_sucursal": "Santa Rosa",
+        "id_client": "22217023",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "4f1f17822be7c58a": {
+        "id_sucursal": "Wuhan",
+        "id_client": "6691568",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "2eb328374c53a5ca": {
+        "id_sucursal": "Wuhan",
+        "id_client": "31728151",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "f18fc111fe07aee5": {
+        "id_sucursal": "Medellin",
+        "id_client": "22806612",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "27655bff8ad74f02": {
+        "id_sucursal": "Wuhan",
+        "id_client": "70328670",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "1607050252fd3b88": {
+        "id_sucursal": "Wuhan",
+        "id_client": "75255473",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "064d79a0d90d1a71": {
+        "id_sucursal": "Wuhan",
+        "id_client": "57634174",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "2c8237d44aa0393c": {
+        "id_sucursal": "Bucaramanga",
+        "id_client": "31903400",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "07d0dd5b655768b1": {
+        "id_sucursal": "Wuhan",
+        "id_client": "63054421",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "623adb5cc5e1679a": {
+        "id_sucursal": "Medellin",
+        "id_client": "3705469",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "99d83a631c56eb4c": {
+        "id_sucursal": "Medellin",
+        "id_client": "42150182",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "98b5f12c749205ad": {
+        "id_sucursal": "Santa Rosa",
+        "id_client": "92603911",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "1bc4ba8cbb5f9196": {
+        "id_sucursal": "Wuhan",
+        "id_client": "48799909",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "11407f3e0091068b": {
+        "id_sucursal": "Santa Rosa",
+        "id_client": "42259328",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "ac24782e9db34756": {
+        "id_sucursal": "Wuhan",
+        "id_client": "89276700",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "01ae20cbedd89580": {
+        "id_sucursal": " Cali",
+        "id_client": "27032968",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "05b15c79f0ae8bca": {
+        "id_sucursal": "Bucaramanga",
+        "id_client": "70763480",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "01995344b9215ac6": {
+        "id_sucursal": "Wuhan",
+        "id_client": "69143017",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "ef07ae7e69004345": {
+        "id_sucursal": "Santa Rosa",
+        "id_client": "87588945",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "dc5eb677e1ec82c3": {
+        "id_sucursal": "Bucaramanga",
+        "id_client": "60971212",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "d597bc98d80255ea": {
+        "id_sucursal": " Cali",
+        "id_client": "70661627",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "89b30ff0cdaf2404": {
+        "id_sucursal": "Medellin",
+        "id_client": "84885242",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "c061272045e72866": {
+        "id_sucursal": "Santa Rosa",
+        "id_client": "94956338",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "2b4d1f3714b09a94": {
+        "id_sucursal": "Wuhan",
+        "id_client": "25924265",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "27356e0409d476f3": {
+        "id_sucursal": "Medellin",
+        "id_client": "45334021",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "37474c915b70cc99": {
+        "id_sucursal": "Wuhan",
+        "id_client": "61476549",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "08dbeff8eef4b8bb": {
+        "id_sucursal": "Medellin",
+        "id_client": "74551044",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "78eb5fbfefd0212e": {
+        "id_sucursal": "Wuhan",
+        "id_client": "57305409",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    },
+    "b9f5476806d917af": {
+        "id_sucursal": " Cali",
+        "id_client": "1028567",
+        "transactions": [],
+        "isActive": false,
+        "balance": 0
+    }
+}
