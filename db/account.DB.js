@@ -1,17 +1,17 @@
 // path to JSON DB
-const dataPath = './DB/JSON/accounts.json'
+const dataPath = './DB/JSON/'
 // library local file management
 const fs = require('fs');
 
 // util functions 
 
-function saveAccountData(data) {
+function saveAccountData(data, account_type) {
     const stringifyData = JSON.stringify(data)
-    fs.writeFileSync(dataPath, stringifyData)
+    fs.writeFileSync(dataPath + account_type + '_accounts.json', stringifyData)
 }
 
-function getAccountData() {
-    const jsonData = fs.readFileSync(dataPath)
+function getAccountData(account_type) {
+    const jsonData = fs.readFileSync(dataPath + account_type + '_accounts.json')
     return JSON.parse(jsonData)
 }
 
